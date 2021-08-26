@@ -38,7 +38,7 @@ def _start(client, message):
                         " Support", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        " Source Code ", url=f"https://{SOURCE_CODE}")
+                        " owner ", url=f"https://t.me/ALWAYS_SHIVAMOP")
                 ]
             ]
         ),
